@@ -1,8 +1,0 @@
-package estudandojava.olamundo;
-
-/**
- *
- * @author Rafael
- *///os dois grandes componentes 'pacotes' são javax.swing e java.awt
-public class OlaMundoJava extends javax.swing.JFrame {/*extends significa herança ' para adquirir' ex de geração a geraç 
-    e public sig algo publico*/
